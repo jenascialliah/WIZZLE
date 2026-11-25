@@ -1,0 +1,1 @@
+Original Elements assets have now been included in public/assets for the web deployment copy.

@@ -1,0 +1,23 @@
+# Original local source and prototypes
+legacy/
+desktop/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Archives and executables
+*.zip
+*.exe
+
+# Build files
+build/
+dist/
+
+# Local configuration
+.vscode/
+*.code-workspace
+desktop.ini
+.env
+.env.*
